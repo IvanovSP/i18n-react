@@ -1,0 +1,10 @@
+{
+  "welcomeMessage": {
+    "id": "app.title",
+    "defaultMessage": "Welcome to react"
+  },
+  "peopleMessage": {
+    "id": "app.icu_and_trans",
+    "defaultMessage": "We invited { numPersons } peoplezzz"
+  }
+}
